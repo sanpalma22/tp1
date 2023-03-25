@@ -1,0 +1,15 @@
+D:\prog4\tp1\bin\Debug\net7.0\tp1.exe
+D:\prog4\tp1\bin\Debug\net7.0\tp1.deps.json
+D:\prog4\tp1\bin\Debug\net7.0\tp1.runtimeconfig.json
+D:\prog4\tp1\bin\Debug\net7.0\tp1.dll
+D:\prog4\tp1\bin\Debug\net7.0\tp1.pdb
+D:\prog4\tp1\obj\Debug\net7.0\tp1.csproj.AssemblyReference.cache
+D:\prog4\tp1\obj\Debug\net7.0\tp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog4\tp1\obj\Debug\net7.0\tp1.AssemblyInfoInputs.cache
+D:\prog4\tp1\obj\Debug\net7.0\tp1.AssemblyInfo.cs
+D:\prog4\tp1\obj\Debug\net7.0\tp1.csproj.CoreCompileInputs.cache
+D:\prog4\tp1\obj\Debug\net7.0\tp1.dll
+D:\prog4\tp1\obj\Debug\net7.0\refint\tp1.dll
+D:\prog4\tp1\obj\Debug\net7.0\tp1.pdb
+D:\prog4\tp1\obj\Debug\net7.0\tp1.genruntimeconfig.cache
+D:\prog4\tp1\obj\Debug\net7.0\ref\tp1.dll
